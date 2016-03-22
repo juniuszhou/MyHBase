@@ -1,7 +1,7 @@
 package HBaseUsage
 
-import com.gravity.hbase.schema.{DeserializedResult, HRow, HbaseTable}
-import org.joda.time.{DateMidnight, DateTime}
+//import com.gravity.hbase.schema.{DeserializedResult, HRow, HbaseTable}
+//import org.joda.time.{DateMidnight, DateTime}
 
 /**
  * https://github.com/GravityLabs/HPaste
